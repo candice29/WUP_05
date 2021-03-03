@@ -50,6 +50,8 @@ barchartGC(~infected + treatment,data=females, type="percent")
 
 ```
 
+Theres a big difference in percentage in the people who had gotten aids that took the drug. The 2 plots should have looked similar but look how far the aids side was up.
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
@@ -76,3 +78,7 @@ The odds of getting aids is 1.54 to 1 in ratio if you take the drug instead of t
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+In summary, we had to filter the data set to only contain women and then analyize the drug effectiveness on just the females. When we looked at it, it shows that the drug wasn't effective at all, in fact the percentage was higher in the people that became infected with aids that had taken the drug.
+
+
